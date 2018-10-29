@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Creative",
+    "imageUrl": ""
+  },
+  {
+    "id": 2,
+    "name": "Electricity",
+    "imageUrl": ""
+  },
+  {
+    "id": 3,
+    "name": "Empowering Youth",
+    "imageUrl": ""
+  },
+  {
+    "id": 4,
+    "name": "Experiment at highschool",
+    "imageUrl": ""
+  },
+  {
+    "id": 5,
+    "name": "Focus Workshops",
+    "imageUrl": ""
+  },
+  {
+    "id": 6,
+    "name": "Learners In Action",
+    "imageUrl": ""
+  },
+  {
+    "id": 7,
+    "name": "Learners",
+    "imageUrl": ""
+  },
+  {
+    "id": 8,
+    "name": "Practicals",
+    "imageUrl": ""
+  },
+  {
+    "id": 9,
+    "name": "Robotics",
+    "imageUrl": ""
+  },
+  {
+    "id": 10,
+    "name": "SAAO Visit",
+    "imageUrl": ""
+  },
+  {
+    "id": 11,
+    "name": "SAAO V",
+    "imageUrl": ""
+  },
+  {
+    "id": 12,
+    "name": "Teaching",
+    "imageUrl": ""
+  }
+]
